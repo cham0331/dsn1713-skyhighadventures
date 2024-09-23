@@ -10,11 +10,13 @@ body {
   margin: 0;
 }
 
+
 nav img {
   max-width: 10%;
   height: auto;
   display: block;
   width: 100%;
+ 
 }
 
 nav ul li a:hover {
@@ -32,3 +34,8 @@ nav ul li a:hover {
   background-color: #00605d;
 
 }
+
+
+
+
+
