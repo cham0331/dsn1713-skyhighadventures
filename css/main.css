@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color:#d9d9d9;
+  font-family:'Poppins', sans-serif;
+  background-color: #fff;
+  color: #222;
+  margin: 0;
+}
+
+nav img {
+  max-width: 10%;
+  height: auto;
+  display: block;
+  width: 100%;
+}
+
+nav ul li a:hover {
+  color: #009894;
+
+}
+
+
+.btn-primary {
+  background-color: #009894;
+  border: #009894;
+}
+
+.btn-primary:hover {
+  background-color: #00605d;
+
+}
