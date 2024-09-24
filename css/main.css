@@ -4,7 +4,7 @@
 
 body {
   background-color:#d9d9d9;
-  font-family:'Poppins', sans-serif;
+  font-family:'Inter', sans-serif;
   background-color: #fff;
   color: #222;
   margin: 0;
@@ -36,6 +36,10 @@ nav ul li a:hover {
 }
 
 
-
-
+.border-bottom {
+  color: #00605d;
+}
+.navbar-toggler {
+  color: #00605d;
+}
 
