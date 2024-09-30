@@ -43,3 +43,20 @@ nav ul li a:hover {
   color: #00605d;
 }
 
+
+.display-1{
+  font-family:'Inter', sans-serif;
+  font-size: 40px;
+
+}
+
+.btn-secondary, .btn-secondary:hover{
+  border: #00605d 1.5px solid;
+  background-color: #fff;
+  color: #222;
+}
+
+.btn-secondary:hover {
+  background-color: #009894;
+  color: #fff;
+}
