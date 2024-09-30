@@ -51,7 +51,7 @@ nav ul li a:hover {
 }
 
 .btn-secondary, .btn-secondary:hover{
-  border: #00605d 1.5px solid;
+  border: #00605d 2px solid;
   background-color: #fff;
   color: #222;
 }
@@ -60,3 +60,8 @@ nav ul li a:hover {
   background-color: #009894;
   color: #fff;
 }
+
+#hero img {
+  stroke: #00605d 6px solid;
+}
+
