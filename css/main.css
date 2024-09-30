@@ -49,6 +49,11 @@ nav ul li a:hover {
   font-size: 40px;
 }
 
+.lead {
+  font-family:'Inter', sans-serif;
+  font-size: 16px;
+}
+
 .btn-secondary, .btn-secondary:hover{
   border: #00605d 2px solid;
   background-color: #fff;
@@ -60,5 +65,15 @@ nav ul li a:hover {
   color: #fff;
 }
 
+.bg-green{
+  background-color: #009894;
+}
+
+
+.small {
+  @media screen and (max-width:600px) {
+    text-align: center;
+  }
+}
 
 
