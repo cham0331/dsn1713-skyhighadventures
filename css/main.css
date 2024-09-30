@@ -47,7 +47,6 @@ nav ul li a:hover {
 .display-1{
   font-family:'Inter', sans-serif;
   font-size: 40px;
-
 }
 
 .btn-secondary, .btn-secondary:hover{
@@ -61,7 +60,5 @@ nav ul li a:hover {
   color: #fff;
 }
 
-#hero img {
-  stroke: #00605d 6px solid;
-}
+
 
