@@ -46,7 +46,7 @@ nav ul li a:hover {
 
 .display-1{
   font-family:'Inter', sans-serif;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 .lead {
@@ -68,6 +68,7 @@ nav ul li a:hover {
 .bg-green{
   background-color: #009894;
 }
+
 
 
 .small {
